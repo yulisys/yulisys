@@ -1,5 +1,12 @@
 ### Hi there 👋
 
+- 👋 Hi, I’m @yulisys
+- 🏢 I'm working at Megazone Cloud as a Cloud Application Architect.
+- 👀 I’m interested in AWS, Spring framework, Servereless, MSA, etc..
+- 🌱 I’m currently learning MSA, python.
+- 💞️ I’m looking to collaborate on ...
+- 📫 How to reach me: yulisys@gmail.com or yulisys@megazone.com
+
 <!--
 **yulisys/yulisys** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
